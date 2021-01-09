@@ -96,7 +96,7 @@ export default class HomePage extends Component{
                         </div>
 
                         <div class="content">
-                        <h2 class="content-head is-center">Who We Are?</h2>
+                        <h2 class="content-head is-center"></h2>
 
                         <div class="Appfeatures">
                             <div class="l-box-lrg pure-u-1 pure-u-md-2-5">
