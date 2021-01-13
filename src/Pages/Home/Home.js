@@ -121,13 +121,13 @@ export default class HomePage extends Component{
                             <div class="l-box-lrg pure-u-1 pure-u-md-3-5">
                                 <h4>Contact Us</h4>
                                 <p>
-                                For any question or suggestion you can directly contact us on our Facebook Page:
+                                For any question or suggestion you can directly contact us on our Facebook:
                                 
                             
-                                Facebook: <a href="https://www.facebook.com/Ashish852201/ ">https://web.facebook.com/alizeb438 </a>
+                                Facebook: <a href="https://www.facebook.com/Ashish852201/ ">https://web.facebook.com/Ashish852201 </a>
                                 </p>
                                 <p>
-                                Instagram:<a href=" https://www.instagram.com/being_ashish___/"> https://www.instagram.com/alizeb438/</a>
+                                Instagram:<a href=" https://www.instagram.com/being_ashish___/"> https://www.instagram.com/being_ashish___/</a>
                                 </p>
                                 
 
